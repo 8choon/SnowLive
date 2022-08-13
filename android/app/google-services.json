@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751574228753",
+    "project_id": "snowlive-86ad2",
+    "storage_bucket": "snowlive-86ad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751574228753:android:afe2c98ac24db1440436b0",
+        "android_client_info": {
+          "package_name": "com.example.snowlive_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751574228753-n762ioaavhj0332qino4d1qbne77788a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-OogRe6QHckovmbeZTwLuCXnnd-QUTm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751574228753-n762ioaavhj0332qino4d1qbne77788a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
